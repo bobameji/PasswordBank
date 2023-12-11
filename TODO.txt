@@ -1,0 +1,19 @@
+#############################
+Program will do the following:
+1) get following info from user:
+	a) what the login is for
+	b) username/email/etc...
+	c) password
+	d) any notes
+2) program will then encrypt the data, and store it in a database file
+3) program will also be able to decrpyt and show information from the database
+#############################
+
+TODO:
+1) write a script that gets user info and saves it to a database file
+2) write a script that either:
+	a) encrypts and obfuscates the info in the file
+	b) encrypts the file in its entirety
+	c) both
+3) write a script that allows the user to view the databse
+4) polish
