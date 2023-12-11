@@ -10,10 +10,11 @@ Program will do the following:
 #############################
 
 TODO:
-1) write a script that gets user info and saves it to a database file
+1) write a script that gets user info and saves it to a database file *DONE*
 2) write a script that either:
 	a) encrypts and obfuscates the info in the file
 	b) encrypts the file in its entirety
 	c) both
-3) write a script that allows the user to view the databse
+3) write a script that allows the user to view the databse *DONE*
 4) polish
+5) allow the user to save and load multiple database files
