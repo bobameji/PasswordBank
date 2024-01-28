@@ -1,1 +1,3 @@
-A simple program - written in python - to encrypt and store passwords in a file.
+Work In Progress
+A simple Python program to store passwords encrypted in a database file.
+Requires key.key and passList.
